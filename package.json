@@ -1,0 +1,22 @@
+{
+    "name": "@types/d3-boxplot",
+    "version": "1.0.0",
+    "description": "TypeScript definitions for d3-boxplot module",
+    "contributors": [
+        {
+            "name": "Michal Červeňák",
+            "url": "https://github.com/cevro",
+            "githubUsername": "cevro"
+        },
+    ],
+    "main": "",
+    "types": "index.d.ts",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/cevro/types-d3-boxplot.git",
+    },
+    "scripts": {},
+    "dependencies": {
+        "@types/d3-selection": "*"
+    }
+}
